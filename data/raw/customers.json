@@ -1,0 +1,32 @@
+[
+    {
+        "_id": {
+            "$oid": "6afe98806ca23904a6e6900f"
+        },
+        "customer_id": 101,
+        "age": 25,
+        "city": "Bangalore",
+        "email": "rahul@gmail.com",
+        "name": "Rahul"
+    },
+    {
+        "_id": {
+            "$oid": "6afe98806ca23904a6e69010"
+        },
+        "customer_id": 102,
+        "age": 28,
+        "city": "Mumbai",
+        "email": "priya@gmail.com",
+        "name": "Priya"
+    },
+    {
+        "_id": {
+            "$oid": "6afe98806ca23904a6e69011"
+        },
+        "customer_id": 103,
+        "age": 30,
+        "city": "Delhi",
+        "email": "amit@gmail.com",
+        "name": "Amit"
+    }
+]

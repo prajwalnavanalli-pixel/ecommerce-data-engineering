@@ -1,0 +1,4 @@
+order_id,customer_id,product_id,quantity,total_amount,order_status,order_date
+O101,101,P101,1,55000,Delivered,2026-11-10
+O102,102,P102,2,50000,Shipped,2026-11-12
+O103,103,P103,1,15000,Processing,2026-11-15

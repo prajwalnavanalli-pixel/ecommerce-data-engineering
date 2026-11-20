@@ -1,0 +1,4 @@
+product_id,brand,category,name,price,stock
+P101,Dell,Electronics,Laptop,55000,20
+P102,Samsung,Electronics,Smartphone,25000,35
+P103,Sony,Accessories,Headphones,3000,50

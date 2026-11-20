@@ -1,0 +1,38 @@
+[
+    {
+        "_id": {
+            "$oid": "6afe9be9e74cc775f39673aa"
+        },
+        "order_id": "O101",
+        "customer_id": "C101",
+        "product_id": "P101",
+        "quantity": 1,
+        "total_amount": 55000,
+        "order_status": "Delivered",
+        "order_date": "2026-11-10"
+    },
+    {
+        "_id": {
+            "$oid": "6afe9c09e74cc775f39673ac"
+        },
+        "order_id": "O102",
+        "customer_id": "C102",
+        "product_id": "P102",
+        "quantity": 2,
+        "total_amount": 50000,
+        "order_status": "Shipped",
+        "order_date": "2026-11-12"
+    },
+    {
+        "_id": {
+            "$oid": "6afe9c28e74cc775f39673ae"
+        },
+        "order_id": "O103",
+        "customer_id": "C103",
+        "product_id": "P103",
+        "quantity": 1,
+        "total_amount": 15000,
+        "order_status": "Processing",
+        "order_date": "2026-11-15"
+    }
+]

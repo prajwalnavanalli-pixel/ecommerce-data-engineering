@@ -1,0 +1,35 @@
+[
+    {
+        "_id": {
+            "$oid": "6afe99d86ca23904a6e69012"
+        },
+        "product_id": "P101",
+        "brand": "Dell",
+        "category": "Electronics",
+        "name": "Laptop",
+        "price": 55000,
+        "stock": 20
+    },
+    {
+        "_id": {
+            "$oid": "6afe99d86ca23904a6e69013"
+        },
+        "product_id": "P102",
+        "brand": "Samsung",
+        "category": "Electronics",
+        "name": "Smartphone",
+        "price": 25000,
+        "stock": 35
+    },
+    {
+        "_id": {
+            "$oid": "6afe99d86ca23904a6e69014"
+        },
+        "product_id": "P103",
+        "brand": "Sony",
+        "category": "Accessories",
+        "name": "Headphones",
+        "price": 3000,
+        "stock": 50
+    }
+]
